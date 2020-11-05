@@ -25,7 +25,7 @@ Els enunciats estan disponibles aquí.
 
 ### Project Management & Release Requirements
 
-- [ ] Use a Project Management Tool, for instance **Github Projects** to create the **Backlog** of your project, follow the issues in a Kanban display and introduce bugs, issues, etc. 
+- [ ] Use a Project Management Tool, for instance **Github Projects** to create the **Backlog** of your project, organize the issues as CARDS in a KANBAN AUTOMATED layout and divide items, insert new issues (bugs, enhacements, ...) 
 - [ ] If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
 - [ ] Create a **Github Release** and insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
