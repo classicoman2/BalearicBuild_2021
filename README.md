@@ -11,7 +11,7 @@ Els enunciats estan disponibles aquí.
 ### SPRINT 1
 `Deadline: **Dissabte 28/11**`
 
-- [ ] s0.1 - S'ha fet, s'ha mostrat al PRODUCT OWNER i s'ha guardat en el repo el **mockup** de la web (DIW)
+- [ ] s0.1 - S'ha fet, s'ha mostrat al PRODUCT OWNER i s'ha guardat en el repo el _wireframe_ de la web (DIW)
 - [ ] s0.2 - S'han creat tots els ITEMS del PRODUCT BACKLOG en un projecte de Github (DIW + DWEC), convenientment etiquetats amb LABELS. S'han separat per MILESTONES (un per l'sprint 1, l'altre per l'sprint final) i s'han col·locat en les columna TO-DO del AUTOMATED KANBAN i distribuit per les columnes corresponents segons si s'han acabat o estan en procés, etc.
 - [ ] s1.1 - El home page per a mòbil ha estat completat (DIW)
 - [ ] s1.2 - La pàgina de personatges per a mòbil ha estat completat (DIW + DWEC)
