@@ -6,6 +6,8 @@ Els enunciats estan disponibles aquí.
 - [Enunciat P2 (DIW)](https://docs.google.com/document/d/1Xf5YXEFK-uyKkfcKPDUHtSW9Ta3xRqP4V1f_vQ0mb_U/edit#)
 - [Enunciat Pc2 (DWEC)](https://docs.google.com/document/d/1lx-whEXZHYdUa27IJMJCYJfctSzRPL8DxmKn1Fh4ld4/edit#)
 
+Nota: les **AMPLIACIONS** a Pc2 són aquells apartats que no és imprescindible haver realitzat per aprovar la Pc2. Sí s'han de fer per aspirar a tenir millor qualificació. Han de ser ISSUES obertes, etiquetades com a _enhacements_ i si no se realitzen, se deixaran obertes.
+
 ## SPRINTS
 
 ### SPRINT 1
@@ -21,17 +23,13 @@ Els enunciats estan disponibles aquí.
 `Deadline: ** Dissabte 12/12**`
 
 - [ ] S'ha completat el projecte
-- [ ] S'han deixat en l'apartat ISSUES els aspectes pendents de finalitzar
+- [ ] S'han deixat en l'apartat ISSUES els items pendents de finalitzar
 
 ### Project Management & Release Requirements
 
 - [ ] Use a Project Management Tool, for instance **Github Projects** to create the **Backlog** of your project, organize the issues as CARDS in a KANBAN AUTOMATED layout and divide items, insert new issues (bugs, enhacements, ...) 
 - [ ] If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
 - [ ] Create a **Github Release** and insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
-
-### Video Presentation
-
-- [ ] 5.1 - Create a video presentation of 5 to 10 minutes of your website, in **English**. Explain how you've build the website, the main sections, colour palette, headings used...
 
 
 ### Project Release Requirements
