@@ -10,14 +10,14 @@ Nota: les **AMPLIACIONS** a Pc2 són aquells apartats que no és imprescindible 
 
 ## SPRINTS
 
-### SPRINT 1
+### SPRINT 1: SKETCH & WIREFRAME
 `Deadline:` [indicat aqui](https://docs.google.com/spreadsheets/d/1IImWEP7pE9mOnzujvaJ5qUBOMgg2PD53_dEWDaSOyZQ/edit#gid=0)
 
 - [ ] s1.1 - S'ha fet, s'ha mostrat al PRODUCT OWNER i s'ha guardat en el repo el _wireframe_ de la web (DIW)
 - [ ] s1.2 - S'han creat tots els ITEMS del PRODUCT BACKLOG en un projecte de Github (DIW + DWEC), convenientment etiquetats amb LABELS. 
 - [ ] s1.3 - S'han separat per MILESTONES (un per l'sprint 1, l'altre per l'sprint final) i s'han col·locat en les columna TO-DO del AUTOMATED KANBAN i distribuit per les columnes corresponents segons si s'han acabat o estan en procés, etc.
 
-### SPRINT 2
+### SPRINT 2: MOBILE FIRST
 `Deadline:` [indicat aqui](https://docs.google.com/spreadsheets/d/1IImWEP7pE9mOnzujvaJ5qUBOMgg2PD53_dEWDaSOyZQ/edit#gid=0)
 
 - [ ] s2.1 - El home page per a mòbil ha estat completat (DIW)
