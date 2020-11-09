@@ -1,7 +1,7 @@
 # BalearicBuild_2021
 Segon projecte del 1er trimestre de les assignatures _Design of Web Interfaces_ i Desenvolupament Web en Entorn Client.
 
-Els enunciats estan disponibles aquí. 
+Els enunciats: 
 
 - [Enunciat P2 (DIW)](https://docs.google.com/document/d/1Xf5YXEFK-uyKkfcKPDUHtSW9Ta3xRqP4V1f_vQ0mb_U/edit#)
 - [Enunciat Pc2 (DWEC)](https://docs.google.com/document/d/1lx-whEXZHYdUa27IJMJCYJfctSzRPL8DxmKn1Fh4ld4/edit#)
@@ -11,16 +11,20 @@ Nota: les **AMPLIACIONS** a Pc2 són aquells apartats que no és imprescindible 
 ## SPRINTS
 
 ### SPRINT 1
-`Deadline: **Dissabte 28/11**`
+`Deadline:` [indicat aqui](https://docs.google.com/spreadsheets/d/1IImWEP7pE9mOnzujvaJ5qUBOMgg2PD53_dEWDaSOyZQ/edit#gid=0)
 
-- [ ] s0.1 - S'ha fet, s'ha mostrat al PRODUCT OWNER i s'ha guardat en el repo el _wireframe_ de la web (DIW)
-- [ ] s0.2 - S'han creat tots els ITEMS del PRODUCT BACKLOG en un projecte de Github (DIW + DWEC), convenientment etiquetats amb LABELS. S'han separat per MILESTONES (un per l'sprint 1, l'altre per l'sprint final) i s'han col·locat en les columna TO-DO del AUTOMATED KANBAN i distribuit per les columnes corresponents segons si s'han acabat o estan en procés, etc.
-- [ ] s1.1 - El home page per a mòbil ha estat completat (DIW)
-- [ ] s1.2 - La pàgina de personatges per a mòbil ha estat completat (DIW + DWEC)
-- [ ] s2.1 - La paleta de colors s'ha triat i s'ha inclòs a la Documentacio (README.MD)
+- [ ] s1.1 - S'ha fet, s'ha mostrat al PRODUCT OWNER i s'ha guardat en el repo el _wireframe_ de la web (DIW)
+- [ ] s1.2 - S'han creat tots els ITEMS del PRODUCT BACKLOG en un projecte de Github (DIW + DWEC), convenientment etiquetats amb LABELS. 
+- [ ] s1.3 - S'han separat per MILESTONES (un per l'sprint 1, l'altre per l'sprint final) i s'han col·locat en les columna TO-DO del AUTOMATED KANBAN i distribuit per les columnes corresponents segons si s'han acabat o estan en procés, etc.
+
+### SPRINT 2
+`Deadline:` [indicat aqui](https://docs.google.com/spreadsheets/d/1IImWEP7pE9mOnzujvaJ5qUBOMgg2PD53_dEWDaSOyZQ/edit#gid=0)
+
+- [ ] s2.1 - El home page per a mòbil ha estat completat (DIW)
+- [ ] s2.2 - La pàgina d'informació dels personatges per a mòbil ha estat completat (DIW + DWEC)
  
-### SPRINT 2: PROTOTYPE RELEASE
-`Deadline: ** Dissabte 12/12**`
+### SPRINT 3: PROTOTYPE RELEASE
+`Deadline:` [indicat aqui](https://docs.google.com/spreadsheets/d/1IImWEP7pE9mOnzujvaJ5qUBOMgg2PD53_dEWDaSOyZQ/edit#gid=0)
 
 - [ ] S'ha completat el projecte
 - [ ] S'han deixat en l'apartat ISSUES els items pendents de finalitzar
