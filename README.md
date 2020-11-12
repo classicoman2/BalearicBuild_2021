@@ -36,3 +36,12 @@ Els enunciats:
 ### Project Release Requirements
 - [ ] Create a **Github Release** and insert the link [in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 - [ ] EXTRA: Try deploying the prototype using a tool like **Jamstack**, **Heroku** etc. (NO OBLIGATORI I NO PUNTUABLE)
+
+### Structure of directories of your project:
+
+    /src
+      /js
+      /css
+      /images
+    /dist
+    /docs
