@@ -1,6 +1,7 @@
 //import axios from 'axios';
 
-const BASE_URL = 'https://my-json-server.typicode.com/classicoman2/fakeRESTserver';
+const BASE_URL =
+  "https://my-json-server.typicode.com/classicoman2/fakeRESTserver";
 
 const getTodos = async () => {
   try {
@@ -8,7 +9,7 @@ const getTodos = async () => {
 
     const todos = res.data;
 
-    mostraPersonatgesPerConsola( todos );
+    pintarPersonatges(todos);
 
     return todos;
   } catch (e) {
@@ -18,14 +19,14 @@ const getTodos = async () => {
 
 /**
  * Mostra per consola les dades dels personatges
- * 
- * @param {Array} personatges 
+ *
+ * @param {Array} personatges
  */
-function mostraPersonatgesPerConsola(personatges) {
-  console.log ( personatges ); 
+function pintarPersonatges(personatges) {
+  console.log(personatges);
 }
 
-
-// Crida la funció asíncrona
-getTodos();
-
+window.onload = function () {
+  // Crida la funció asíncrona
+  getTodos();
+};
